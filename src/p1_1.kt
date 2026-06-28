@@ -11,6 +11,9 @@ fun main() {
     var p:Long = 338927847
     var q:Short = -2
     var r:Byte = 127
+
+
+
     println("r="+r)
     println("q="+q)
     println("p="+p)
@@ -21,4 +24,5 @@ fun main() {
     println("k="+k)
     println("j="+j)
     println("i="+i)
+
 }
