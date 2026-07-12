@@ -14,15 +14,14 @@ fun main() {
 
 
 
-    println("r="+r)
-    println("q="+q)
-    println("p="+p)
-    println("o="+o)
-    println("n="+n)
-    println("m="+m)
-    println("l="+l)
-    println("k="+k)
-    println("j="+j)
-    println("i="+i)
+    println("Integer Value :"+j)
+    println("Float Value :"+k)
+    println("Character Value :"+l)
+    println("String Value :"+m)
+    println("Boolean Value :"+n)
+    println("Double Value :"+o)
+    println("Long Value :"+p)
+    println("Short Value :"+q)
+    println("Byte Value :"+r)
 
 }
